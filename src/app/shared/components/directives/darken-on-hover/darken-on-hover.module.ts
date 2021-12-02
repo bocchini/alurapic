@@ -5,4 +5,4 @@ import { NgModule } from '@angular/core';
   declarations: [DarkenOnHoverDirective],
   exports: [DarkenOnHoverDirective]
 })
-export class DarkenOnHoverModuleo {}
+export class DarkenOnHoverModule {}
